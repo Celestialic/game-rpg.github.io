@@ -1,1 +1,1 @@
-# Game-RPG.github.io
+# game-rpg.github.io
