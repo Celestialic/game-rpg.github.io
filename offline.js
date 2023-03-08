@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678256613,
+	"version": 1678259337,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,10 +20,11 @@
 		"images/pool-sheet0.png",
 		"images/pumkin-sheet0.png",
 		"images/sofa-sheet0.png",
-		"images/tilemap2.png",
-		"images/tilemap.png",
 		"images/border-sheet0.png",
 		"images/tiledbackground.png",
+		"images/tilemap.png",
+		"images/tilemap2.png",
+		"images/button2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
